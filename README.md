@@ -8,7 +8,7 @@ our own npm server.
 Use `npm config set registry http://10.43.1.203:11504` to access our own npm server.
 
 # Design Docs
-see [design docs](DESIGN.md?raw=true);
+see [design docs](DESIGN.md);
 
 # Usage
 上面设计文档当中大致讲了html-engine的设计思路，这一节我们就专门讲html-engine的使用方法。
